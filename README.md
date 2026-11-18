@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Ciberseguran%C3%A7a+e+desenvolvimento+seguro;Software+com+aten%C3%A7%C3%A3o+%C3%A0+qualidade;Explorando+tecnologia+com+responsabilidade" alt="Texto animado sobre cibersegurança, software e responsabilidade" />
 
-<img src="./assets/banner-programacao.jpg" width="100%" alt="Paisagem cyberpunk profissional com rede digital e escudo de segurança" />
+<img src="./assets/banner-cybersecurity.png" width="100%" alt="Ilustração cyberpunk transparente de um escudo digital com circuitos e conexões" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-khallendevs-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khallendevs)
 [![Telegram](https://img.shields.io/badge/Telegram-@khallen-111827?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/khallen)
