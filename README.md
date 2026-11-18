@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B19,48:261044,100:00E5FF&height=190&section=header&text=KHALLEN&fontSize=52&fontColor=F5F7FF&fontAlignY=35&desc=CYBERSECURITY%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20GAME%20DEV&descAlignY=59&descSize=15&animation=twinkling" width="100%" alt="Cabeçalho cyberpunk animado em azul e magenta" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Ciberseguran%C3%A7a+e+desenvolvimento+seguro;Software+com+aten%C3%A7%C3%A3o+%C3%A0+qualidade;Explorando+tecnologia+com+responsabilidade" alt="Texto animado sobre cibersegurança, software e responsabilidade" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=%24+whoami;Khallen+-+Cybersecurity+%26+Software;%24+echo+%22Seguran%C3%A7a+com+responsabilidade%22" alt="Simulação visual de terminal com efeito de digitação; não interativo" />
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,unity,unreal,cs,cpp,lua,android,kotlin,dotnet,html,php,solidity&theme=dark" alt="Python, Linux, Git, Unity, Unreal Engine, C sharp, C++, Lua, Android, Kotlin, .NET, HTML, PHP e Solidity" />
 
 <img src="./assets/banner-cybersecurity.png" width="100%" alt="Ilustração cyberpunk transparente de um escudo digital com circuitos e conexões" />
 
@@ -29,14 +31,6 @@ Atualmente, estou aprofundando meus conhecimentos em **cibersegurança** e **sha
 |:---:|:---:|:---:|
 | Fundamentos de segurança e desenvolvimento seguro | Arquitetura e aplicações práticas | Unity, Unreal Engine e shaders |
 | Aprendizado responsável e proteção de sistemas | Qualidade, manutenção e experiência de uso | C#, C++, Lua e ferramentas relacionadas |
-
-</div>
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,unity,unreal,cs,cpp,lua,android,kotlin,dotnet,html,php,solidity&theme=dark" alt="Python, Linux, Git, Unity, Unreal Engine, C sharp, C++, Lua, Android, Kotlin, .NET, HTML, PHP e Solidity" />
 
 </div>
 
