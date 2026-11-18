@@ -58,6 +58,16 @@ Atualmente, estou aprofundando meus conhecimentos em **cibersegurança** e **sha
 
 </div>
 
+## Contribuições e atividade
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=khallendevs&theme=dark&hide_border=true&background=070B19&ring=00E5FF&fire=FF42D0&currStreakLabel=00E5FF&sideLabels=DCE6F1&dates=8A94A6" alt="Sequência diária de contribuições no GitHub" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khallendevs&bg_color=070B19&color=00E5FF&line=FF42D0&point=F5F7FF&area=true&hide_border=true" alt="Gráfico dinâmico de atividade e contribuições no GitHub" />
+
+</div>
+
 ---
 
 <div align="center">
